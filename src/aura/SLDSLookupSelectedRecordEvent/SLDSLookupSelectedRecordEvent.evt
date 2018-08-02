@@ -1,0 +1,3 @@
+<aura:event type="COMPONENT" description="passes the selected record from child to parent component">
+    <aura:attribute name="selectedRecordEvent" type="sObject"/>
+</aura:event>
